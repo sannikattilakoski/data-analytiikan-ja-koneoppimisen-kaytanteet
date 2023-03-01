@@ -1,4 +1,4 @@
-# Data analytiikan ja koneoppimisen käytänteet - Tehtävät 
+# Data analytiikan ja koneoppimisen käytänteet - opintojakson ryhmätyötehtävät
 
 Tehtävät 1-6, jotka tehdään ryhmässä. 
 
