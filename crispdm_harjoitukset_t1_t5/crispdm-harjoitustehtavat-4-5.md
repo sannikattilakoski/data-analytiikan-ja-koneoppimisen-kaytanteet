@@ -1,10 +1,7 @@
 ## Tehtävä: Opiskelijaryhmän tiedot
-* **Kaikkien ryhmään** kuuluvien opiskelijoiden nimet ja JAMK:n opiskelijatunnukset
-    * Sanna Immonen AC8402
-    * Sanni Kattilakoski AB5134
-    * Tomi Nykänen AD7735
-
-Huom! Vain yksi vastaus tähän ryhmätehtävään per ryhmä. Kaikki vastaukset arvioidaan koko ryhmän jäsenille samalla tavalla.
+    * Sanna 
+    * Sanni Kattilakoski 
+    * Tomi 
 
 #### Tehtävien pisteytys
 
@@ -29,20 +26,7 @@ se lopputulos eli kuinka paljon asiakas hyötyy tehdystä data-analyysistä sek�
 * Ryhmittely?
 * Ryhmien tunnistaminen datasta?
 * Kuvaile Mitä tämän jälkeen tapahtuu CRISP-DM -mallin mukaan (pääpiirteissään)
-* Havaintojen tueksi voi liittää kuvia/koodia datasta
-
-Palautetaan vastaus repositoryyn annettuun palautuspäivämäärään mennessä:
-* Palautus MarkDown-formaatissa (tarkenne .md), jolloin kuvat linkitetään dokumenttiin
-
-**Lähteitä:**
-* Video - **05 CRISP-DM Keskiosa**
-
-Myös kannattaa katsoa:
-* **09: KDD-prosessi**
-* **11: Tietokone**
-* **12: Matematiikka**
-* **13: Työkalut**
-* **14: Suurteholaskenta**
+* Havaintojen tueksi voi liittää kuvia/koodia datasta  
 
 ## Tehtävä 4: Eri kiinteistöjen välistä vertailua
 Tehtävänäsi on tehdä vertailua eri kiinteistöjen välillä. Pohdi ainakin seuraavia asioita:
@@ -280,20 +264,6 @@ Koneet toimivat Linux -ympäristössä, joten komentokehotteen osaaminen on erit
 * koneoppimiskirjasto pythonissa
 
 ---------------------
-## Tehtävät 1-5 - esitys
-### Videoesitys 
 
-Tehdään **Videoesitys** (n. 10 min) projektista ja sen tuloksista.
-Videolla voi kertoa tiivistetysti teidän koko "prosessista" eli tehtävistä 1-5.
-
-* Tavoitteena on selventää projektin tuloksien pohdintaa arvioijalle (ts. opettajalle).
-* Esityksessä tiivistetään tärkeimmät opit ja löydökset teidän ryhmän kannalta
-* Esityksen muoto on vapaa ja ryhmän päätettävissä 
-  * "käsikirjoitus", mitä aikoo esittää, kannattaa tehdä ennen esittämistä
-
-
-### Esitys ei pakollinen 
- Videota ei tällä kurssilla erikseen arvioida, mutta silti toivon, että ryhmät tekevät sen.
-ts. Sen tekeminen ei ainakaan laske arvosanaa. Esitys ei kuitenkaan ole pakollinen syksyllä 2022.
 
 
