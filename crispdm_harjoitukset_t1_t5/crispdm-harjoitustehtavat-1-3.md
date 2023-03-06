@@ -1,14 +1,7 @@
 ## Tehtävä: Opiskelijaryhmän tiedot
-* **Kaikkien ryhmään** kuuluvien opiskelijoiden nimet ja JAMK:n opiskelijatunnukset
     * Sanna 
     * Sanni Kattilakoski 
-    * Tomi 
-
-Huom! Vain yksi vastaus tähän ryhmätehtävään per ryhmä. Kaikki vastaukset arvioidaan koko ryhmän jäsenille samalla tavalla.
-
-#### Tehtävien pisteytys
-
-* Opintojakson opettaja laskee pisteet palautuksen jälkeen
+    * Tomi  
 
 Tehtävien maksimipistemäärät:
 
