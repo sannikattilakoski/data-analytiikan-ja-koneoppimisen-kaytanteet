@@ -1,8 +1,8 @@
 ## Tehtävä: Opiskelijaryhmän tiedot
 * **Kaikkien ryhmään** kuuluvien opiskelijoiden nimet ja JAMK:n opiskelijatunnukset
-    * Sanna Immonen AC8402
-    * Sanni Kattilakoski AB5134
-    * Tomi Nykänen AD7735
+    * Sanna 
+    * Sanni Kattilakoski 
+    * Tomi 
 
 Huom! Vain yksi vastaus tähän ryhmätehtävään per ryhmä. Kaikki vastaukset arvioidaan koko ryhmän jäsenille samalla tavalla.
 
