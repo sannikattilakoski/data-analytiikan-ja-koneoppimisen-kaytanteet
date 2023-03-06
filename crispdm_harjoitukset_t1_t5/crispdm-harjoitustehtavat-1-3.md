@@ -51,14 +51,7 @@ Haetaan vastaukset kysymyksiin:
 * Mitä datasta voidaan nähdä?
 * Mitä datasta voidaan tunnistaa?
 * Voidaanko datasta havaita jotain poikkeavaa?
-* Tarvitaanko tämän lisäksi jotakin muuta lisätietoa?
-
-Palautetaan vastaus repositoryyn annettuun palautuspäivämäärään mennessä:
-* palautus tehdään MarkDown-formaatissa (tarkenne .md), jolloin kuvat ja kaaviot linkitetään dokumenttiin. 
-
-**Lähteitä:**
-* Video - **05 CRISP-DM Alku**
-* Katso Myös Video **10: Tekoälyprojektin roolitus**
+* Tarvitaanko tämän lisäksi jotakin muuta lisätietoa?  
 
 ## Tehtävä 1: Vastaus 
 
@@ -131,13 +124,6 @@ Yorkshire waterin vuosikertomus 2020
 
 https://www.yorkshirewater.com/media/0wbbmdu2/29938_yw_annual_performance_report_2020_web.pdf
 
-
---------------------
-
-TODO: Kirjoita vastauksesi MarkDown-formaatissa, jolloin sen voi liittää suoraan tehtävädokumenttiin.
-* [MarkDown-tutorial](https://www.markdownguide.org/basic-syntax/).
-* Liitä vastaukseen myös tarvittavat kuvakaappaukset yms.
-
 --------------------
 # Tehtävä 2: Datan kuvaaminen (Data Understanding)
 
@@ -148,21 +134,10 @@ TODO: Kirjoita vastauksesi MarkDown-formaatissa, jolloin sen voi liittää suora
 * Havaintojen tueksi voi liittää visualisoitua dataa
 * Mieti mitä tällä datalla voidaan mahdollisesti tehdä?
 
-Palautetaan vastaus repositoryyn annettuun palautuspäivämäärään mennessä:
-* palautus tehdään MarkDown-formaatissa (tarkenne .md), jolloin kuvat linkitetään dokumenttiin
-
 Datan käsittely:
 * Katso julkaistu [Yorkshire Water Jupyter Notebook -dokumentti](jupyter_data/YorkshireWater_data_analysointi.ipynb) 
 * Tätä voitte käyttää apuna datan ymmärtämisessä
-* Sitä voi myös täydentää lisähavaintojen ja -analyysin tekemiseen (voi itse ohjelmoida lisää)
-
-**Lähteitä:**
-* Video - **05 CRISP-DM Loppuosa**
-
-Kannattaa myös katsoa seuraavat videot:
-* **18: Data ja sen laatu**
-* **19: Huono Data**
-* **20: Laadun arviointi ja formaatit**
+* Sitä voi myös täydentää lisähavaintojen ja -analyysin tekemiseen (voi itse ohjelmoida lisää)  
 
 ## Tehtävä 2: Vastaus 
 
@@ -214,13 +189,7 @@ Kyselytutkimusdata koostuu 13748 kotitalouden vastauksesta, ja sen 96 sarakkeest
 * onko vesimittaria
 * kotitalouden käyttöveden määrä litroina  
 
-Kyselyyn vastanneet ovat ilmoittaneet asunnontyypikseen omakotitalon, paritalon, rivitalon, kerrostalon tai mökin. Asukasmäärät vaihtelevat 1-10 välillä. Kyselytutkimuksesta on nähtävissä, että mitä enemmän asunnossa asuu ihmisiä ja myös mitä suurempi asunnon varustelutaso on, sitä suurempi on vedenkulutus. Poikkeuksena tähän on että, astianpesukoneen käyttäminen vie vähemmän vettä kuin käsin tiskaaminen. Kyselytutkimusdatassa on puutteita ja siitä käy ilmi, että osa ei ole vastannut kaikkiin kysymyksiin. Ylipäänsä kyselytutkimuksen käyttäminen mittausdatan rinnalla tai tukena on hieman kyseenalaista juuri sen puutteellisuuden vuoksi, mutta myös siitä syystä, että kyselytutkimus on tehty eri ajankohtana kuin mittausdata kerätty. 
-
---------------------
-
-TODO: Kirjoita vastauksesi MarkDown-formaatissa, jolloin sen voi liittää suoraan tehtävädokumenttiin.
-* [MarkDown-tutorial](https://www.markdownguide.org/basic-syntax/).
-* Liitä vastaukseen myös tarvittavat kuvakaappaukset yms.
+Kyselyyn vastanneet ovat ilmoittaneet asunnontyypikseen omakotitalon, paritalon, rivitalon, kerrostalon tai mökin. Asukasmäärät vaihtelevat 1-10 välillä. Kyselytutkimuksesta on nähtävissä, että mitä enemmän asunnossa asuu ihmisiä ja myös mitä suurempi asunnon varustelutaso on, sitä suurempi on vedenkulutus. Poikkeuksena tähän on että, astianpesukoneen käyttäminen vie vähemmän vettä kuin käsin tiskaaminen. Kyselytutkimusdatassa on puutteita ja siitä käy ilmi, että osa ei ole vastannut kaikkiin kysymyksiin. Ylipäänsä kyselytutkimuksen käyttäminen mittausdatan rinnalla tai tukena on hieman kyseenalaista juuri sen puutteellisuuden vuoksi, mutta myös siitä syystä, että kyselytutkimus on tehty eri ajankohtana kuin mittausdata kerätty.  
 
 --------------------------
 
@@ -234,20 +203,7 @@ TODO: Kirjoita vastauksesi MarkDown-formaatissa, jolloin sen voi liittää suora
 * Kannattaako data pilkkoa osiin?
 * Joudutaanko dataa mahdollisesti muuttamaan ennen sen jatkojalostusta?
 * Mieti tilastotietojen hyötykäyttöä?
-* Havaintojen tueksi voi liittää kuvia datasta
-
-Palautetaan vastaus repositoryyn annettuun palautuspäivämäärään mennessä:
-* palautus tehdään MarkDown-formaatissa (tarkenne .md), jolloin kuvat linkitetään dokumenttiin
-
-
-**Lähteitä:**
-* Video - **06 CRISP-DM Keskiosa** (Datan valmistelun kuvaus)
-
-Myös kannattaa katsoa seuraavat videot:
-* **16: Aineisto**
-* **17: Validointi**
-
-Katso julkaistu [Yorkshire Water Jupyter Notebook -dokumentti](jupyter_data/YorkshireWater_data_analysointi.ipynb)
+* Havaintojen tueksi voi liittää kuvia datasta  
 
 
 ## Tehtävä 3: Vastaus 
@@ -272,7 +228,3 @@ Esim. Tästä kuvaajasta voitaisiin tehdä päätelmä, että kiinteistöalueen 
 
 --------------------
 
-TODO: Jos kirjoitat vastauksen MarkDown-formaatissa, sen voi liittää suoraan tehtävädokumenttiin.
-* [MarkDown-tutorial](https://www.markdownguide.org/basic-syntax/).
-
-----------
